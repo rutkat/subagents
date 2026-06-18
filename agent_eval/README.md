@@ -57,7 +57,8 @@ agent_eval/
 └── orchestrator.py
 ```
  
-### To run project, download repo, run LM Studio, load models, enter model identifier name into code variables *LLM_URL, GENERATOR_MODEL, EVALUATOR_MODEL* and run these commands:    
+### Execute:  
+To run project, download repo, run LM Studio, load models, enter model identifier name into code variables *LLM_URL, GENERATOR_MODEL, EVALUATOR_MODEL* and run these commands:    
 ```#!/bin/bash
 uv venv agent_eval
 source agent_eval/bin/activate
