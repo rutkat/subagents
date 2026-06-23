@@ -1,0 +1,101 @@
+patient_id;age;gender;condition;medication;skin_type;last_visit_date;smoker;alcohol_use;BMI;occupation;allergies;comorbid_condition
+PT001;29;Non-binary;Pityriasis Rosea;Calamine Lotion;Sensitive;2024-03-03;No;Heavy;29.5;Construction Worker;Latex;Migraines
+PT002;57;Male;Actinic Keratosis;Fluorouracil;Normal;2024-03-05;Yes;Light;25.7;Office Worker;Bee stings;Asthma
+PT003;27;Female;Eczema;Hydrocortisone;Sensitive;2023-05-10;No;Moderate;28.7;Office Worker;None;Hay Fever
+PT004;21;Other;Seborrheic Dermatitis;Ketoconazole;Dry;2023-05-15;No;Moderate;20.2;Artist;Peanuts;Migraines
+PT005;65;Male;Tinea Corporis (Ringworm);Clotrimazole;Combination;2024-04-23;No;Light;33.6;Engineer;None;Hay Fever
+PT006;25;Other;Psoriasis;Calcipotriene;Combination;2024-05-14;No;Light;29.4;Teacher;Latex;Type 2 Diabetes
+PT007;29;Other;Actinic Keratosis;Fluorouracil;Dry;2024-02-12;No;Light;21.5;Nurse;Peanuts;Migraines
+PT008;39;Non-binary;Melasma;Hydroquinone;Oily;2023-10-28;Yes;None;30.3;Artist;Latex;Type 2 Diabetes
+PT009;85;Non-binary;Psoriasis;Calcipotriene;Normal;2023-03-06;No;Light;28.1;Unemployed;Penicillin;None
+PT010;21;Female;Seborrheic Dermatitis;Ketoconazole;Oily;2023-08-16;No;Moderate;22.4;Nurse;Mold;Hypertension
+PT011;85;Male;Perioral Dermatitis;Erythromycin;Normal;2024-03-04;No;None;20.5;Unemployed;Latex;Hypertension
+PT012;32;Female;Eczema;Hydrocortisone;Sensitive;2024-01-26;No;Light;20.6;Artist;Bee stings;Hypothyroidism
+PT013;33;Female;Actinic Keratosis;Fluorouracil;Sensitive;2023-06-02;No;Moderate;26.3;Unemployed;Peanuts;Hypertension
+PT014;27;Female;Psoriasis;Calcipotriene;Sensitive;2023-01-09;Yes;Light;29.6;Artist;None;Type 2 Diabetes
+PT015;48;Female;Pityriasis Rosea;Calamine Lotion;Normal;2024-03-03;No;Heavy;17.5;Engineer;Bee stings;Hypertension
+PT016;36;Male;Urticaria (Hives);Cetirizine;Sensitive;2024-02-09;Yes;Light;23.6;Nurse;Shellfish;High Cholesterol
+PT017;41;Other;Perioral Dermatitis;Erythromycin;Sensitive;2023-01-20;No;None;18.9;Nurse;Pet dander;GERD
+PT018;68;Male;Contact Dermatitis;Clobetasol;Dry;2024-03-14;Yes;Moderate;21.2;Artist;Mold;Migraines
+PT019;80;Other;Rosacea;Metronidazole;Oily;2024-04-11;No;Heavy;22.2;Office Worker;Latex;Migraines
+PT020;65;Female;Melasma;Hydroquinone;Combination;2024-03-20;No;Heavy;20.3;Engineer;Latex;High Cholesterol
+PT021;34;Male;Urticaria (Hives);Cetirizine;Normal;2023-09-01;Yes;Heavy;28.1;Construction Worker;Peanuts;High Cholesterol
+PT022;22;Non-binary;Pityriasis Rosea;Calamine Lotion;Dry;2023-04-20;No;None;29.2;Artist;Shellfish;Hypothyroidism
+PT023;18;Non-binary;Psoriasis;Calcipotriene;Oily;2023-01-04;Yes;Moderate;28.9;Construction Worker;Peanuts;Migraines
+PT024;26;Male;Actinic Keratosis;Fluorouracil;Sensitive;2023-06-14;Yes;Moderate;24.2;Nurse;Penicillin;Hypertension
+PT025;49;Female;Rosacea;Metronidazole;Normal;2023-05-07;No;Light;26.3;Unemployed;Pet dander;Hay Fever
+PT026;51;Other;Acne;Benzoyl Peroxide;Dry;2023-08-15;No;Heavy;27.9;Engineer;None;Hypothyroidism
+PT027;78;Male;Eczema;Hydrocortisone;Oily;2023-11-14;Yes;Moderate;30.4;Nurse;Pet dander;Hypothyroidism
+PT028;52;Other;Alopecia Areata;Minoxidil;Dry;2024-05-13;Yes;Light;34.1;Nurse;Peanuts;None
+PT029;66;Other;Acne;Benzoyl Peroxide;Sensitive;2024-02-17;No;Heavy;25.3;Unemployed;Shellfish;Hay Fever
+PT030;71;Other;Melasma;Hydroquinone;Combination;2023-03-22;No;Heavy;34.4;Engineer;Shellfish;Hypertension
+PT031;51;Other;Psoriasis;Calcipotriene;Dry;2023-04-30;Yes;Heavy;17.0;Unemployed;Dust mites;GERD
+PT032;30;Non-binary;Tinea Corporis (Ringworm);Clotrimazole;Sensitive;2023-11-26;Yes;None;18.7;Engineer;Penicillin;Migraines
+PT033;29;Non-binary;Perioral Dermatitis;Erythromycin;Dry;2023-03-13;No;Light;20.4;Teacher;Peanuts;GERD
+PT034;38;Female;Urticaria (Hives);Cetirizine;Normal;2023-03-20;No;Moderate;24.6;Student;None;GERD
+PT035;73;Female;Lichen Simplex Chronicus;Triamcinolone;Normal;2023-12-16;No;Moderate;26.3;Student;Peanuts;None
+PT036;21;Female;Eczema;Hydrocortisone;Dry;2023-04-14;Yes;Light;27.9;Construction Worker;Dust mites;Asthma
+PT037;68;Female;Lichen Simplex Chronicus;Triamcinolone;Oily;2024-02-13;No;Light;27.6;Teacher;Penicillin;GERD
+PT038;72;Non-binary;Psoriasis;Calcipotriene;Combination;2024-03-06;No;Light;24.4;Office Worker;Pollen;None
+PT039;54;Other;Eczema;Hydrocortisone;Normal;2023-12-19;Yes;None;23.2;Nurse;Pet dander;GERD
+PT040;46;Other;Alopecia Areata;Minoxidil;Sensitive;2024-05-13;No;Heavy;22.7;Nurse;Peanuts;Hay Fever
+PT041;43;Other;Alopecia Areata;Minoxidil;Combination;2024-04-06;Yes;Heavy;23.7;Student;Dust mites;Seasonal Allergies
+PT042;34;Non-binary;Rosacea;Metronidazole;Oily;2024-03-10;Yes;Moderate;30.6;Artist;None;Hay Fever
+PT043;39;Non-binary;Rosacea;Metronidazole;Combination;2024-03-12;Yes;Moderate;32.6;Office Worker;Penicillin;GERD
+PT044;51;Female;Alopecia Areata;Minoxidil;Sensitive;2023-12-09;No;Heavy;25.5;Engineer;Latex;Hypertension
+PT045;48;Other;Urticaria (Hives);Cetirizine;Combination;2023-06-10;No;Light;30.2;Student;Shellfish;Hypertension
+PT046;25;Non-binary;Melasma;Hydroquinone;Oily;2024-05-07;No;Heavy;23.1;Student;Shellfish;Hay Fever
+PT047;32;Female;Acne;Benzoyl Peroxide;Combination;2024-02-26;No;Light;31.7;Nurse;Dust mites;Hay Fever
+PT048;18;Non-binary;Lichen Simplex Chronicus;Triamcinolone;Normal;2023-10-17;No;Light;24.8;Construction Worker;Mold;High Cholesterol
+PT049;66;Male;Perioral Dermatitis;Erythromycin;Normal;2024-02-12;Yes;None;18.5;Nurse;Dust mites;None
+PT050;44;Male;Seborrheic Dermatitis;Ketoconazole;Dry;2023-04-11;No;Heavy;18.5;Construction Worker;Shellfish;Migraines
+PT051;84;Other;Pityriasis Rosea;Calamine Lotion;Oily;2023-07-27;No;None;24.4;Nurse;Pollen;Hay Fever
+PT052;87;Female;Rosacea;Metronidazole;Oily;2024-01-01;Yes;Heavy;18.0;Office Worker;Latex;High Cholesterol
+PT053;69;Female;Psoriasis;Calcipotriene;Oily;2023-05-20;Yes;Light;18.6;Student;Pet dander;Asthma
+PT054;54;Other;Tinea Corporis (Ringworm);Clotrimazole;Sensitive;2023-03-03;No;Heavy;34.7;Engineer;Mold;Hypothyroidism
+PT055;72;Non-binary;Seborrheic Dermatitis;Ketoconazole;Sensitive;2023-07-29;Yes;None;29.5;Artist;Bee stings;GERD
+PT056;61;Male;Pityriasis Rosea;Calamine Lotion;Sensitive;2023-08-16;No;Heavy;33.9;Student;Shellfish;Asthma
+PT057;62;Other;Seborrheic Dermatitis;Ketoconazole;Combination;2023-02-17;No;Heavy;31.8;Nurse;Shellfish;Hay Fever
+PT058;63;Female;Lichen Simplex Chronicus;Triamcinolone;Combination;2024-03-16;No;Heavy;22.8;Construction Worker;Peanuts;Seasonal Allergies
+PT059;56;Male;Urticaria (Hives);Cetirizine;Oily;2023-12-15;No;Moderate;24.1;Artist;Latex;Hypertension
+PT060;19;Male;Actinic Keratosis;Fluorouracil;Dry;2023-01-10;Yes;None;25.2;Teacher;Peanuts;Seasonal Allergies
+PT061;18;Non-binary;Tinea Corporis (Ringworm);Clotrimazole;Sensitive;2024-01-01;Yes;Moderate;22.8;Office Worker;Bee stings;Hypothyroidism
+PT062;88;Non-binary;Alopecia Areata;Minoxidil;Dry;2023-08-27;Yes;None;31.9;Nurse;Bee stings;High Cholesterol
+PT063;37;Other;Tinea Corporis (Ringworm);Clotrimazole;Sensitive;2024-01-10;Yes;Light;17.6;Student;None;Seasonal Allergies
+PT064;30;Female;Tinea Corporis (Ringworm);Clotrimazole;Oily;2023-09-19;No;Light;22.1;Nurse;Mold;GERD
+PT065;41;Female;Lichen Simplex Chronicus;Triamcinolone;Normal;2023-02-21;Yes;Light;24.7;Nurse;Pollen;Seasonal Allergies
+PT066;36;Non-binary;Urticaria (Hives);Cetirizine;Oily;2024-03-11;No;Moderate;26.8;Engineer;Penicillin;Hypothyroidism
+PT067;38;Other;Urticaria (Hives);Cetirizine;Dry;2023-11-28;No;None;18.0;Artist;Pet dander;Hypothyroidism
+PT068;84;Non-binary;Lichen Simplex Chronicus;Triamcinolone;Combination;2023-02-22;Yes;Moderate;18.7;Nurse;Mold;High Cholesterol
+PT069;39;Other;Alopecia Areata;Minoxidil;Combination;2023-11-27;No;Light;17.5;Nurse;Latex;Asthma
+PT070;28;Male;Acne;Benzoyl Peroxide;Normal;2023-04-13;Yes;Heavy;28.6;Unemployed;Pet dander;Asthma
+PT071;45;Female;Lichen Simplex Chronicus;Triamcinolone;Oily;2024-02-12;Yes;Moderate;16.9;Unemployed;Peanuts;Hypertension
+PT072;72;Male;Acne;Benzoyl Peroxide;Normal;2023-11-30;No;Light;17.8;Teacher;Mold;Type 2 Diabetes
+PT073;30;Female;Psoriasis;Calcipotriene;Sensitive;2023-11-19;No;None;19.8;Construction Worker;Peanuts;Hay Fever
+PT074;89;Other;Acne;Benzoyl Peroxide;Dry;2024-01-29;No;Light;28.7;Construction Worker;Penicillin;GERD
+PT075;67;Non-binary;Eczema;Hydrocortisone;Dry;2024-02-23;Yes;Moderate;22.8;Unemployed;Penicillin;Hypertension
+PT076;60;Non-binary;Acne;Benzoyl Peroxide;Oily;2023-02-18;Yes;Moderate;17.9;Construction Worker;Shellfish;Seasonal Allergies
+PT077;57;Non-binary;Tinea Corporis (Ringworm);Clotrimazole;Sensitive;2023-07-20;Yes;Heavy;31.0;Student;Latex;Hay Fever
+PT078;75;Male;Contact Dermatitis;Clobetasol;Dry;2024-04-04;Yes;Moderate;29.1;Artist;Latex;Seasonal Allergies
+PT079;26;Other;Actinic Keratosis;Fluorouracil;Dry;2023-06-30;Yes;Light;23.0;Engineer;Mold;High Cholesterol
+PT080;76;Non-binary;Pityriasis Rosea;Calamine Lotion;Combination;2024-01-28;No;Light;30.6;Artist;Mold;High Cholesterol
+PT081;24;Male;Melasma;Hydroquinone;Oily;2023-08-04;No;Light;32.5;Engineer;Pet dander;Hypertension
+PT082;50;Non-binary;Alopecia Areata;Minoxidil;Sensitive;2023-12-22;Yes;Heavy;25.1;Office Worker;Mold;Asthma
+PT083;46;Other;Acne;Benzoyl Peroxide;Sensitive;2023-01-20;No;Light;25.2;Teacher;Bee stings;None
+PT084;78;Female;Perioral Dermatitis;Erythromycin;Dry;2024-04-21;No;None;17.2;Teacher;Penicillin;Asthma
+PT085;69;Other;Perioral Dermatitis;Erythromycin;Oily;2023-11-09;Yes;None;33.0;Office Worker;Pet dander;Hypothyroidism
+PT086;51;Female;Perioral Dermatitis;Erythromycin;Sensitive;2024-04-07;No;Moderate;34.9;Unemployed;Latex;Seasonal Allergies
+PT087;27;Male;Seborrheic Dermatitis;Ketoconazole;Normal;2024-01-02;No;Light;20.7;Nurse;Latex;Asthma
+PT088;36;Female;Alopecia Areata;Minoxidil;Dry;2023-11-23;Yes;Heavy;28.9;Engineer;Pet dander;Seasonal Allergies
+PT089;63;Other;Lichen Simplex Chronicus;Triamcinolone;Oily;2023-02-04;Yes;Heavy;25.6;Construction Worker;None;Hay Fever
+PT090;90;Male;Urticaria (Hives);Cetirizine;Oily;2023-07-21;No;Moderate;21.6;Construction Worker;Pollen;Asthma
+PT091;27;Non-binary;Acne;Benzoyl Peroxide;Combination;2023-04-26;Yes;Heavy;33.4;Artist;Penicillin;Hypothyroidism
+PT092;46;Female;Contact Dermatitis;Clobetasol;Dry;2023-09-21;No;Moderate;32.3;Engineer;Pollen;High Cholesterol
+PT093;79;Female;Melasma;Hydroquinone;Sensitive;2023-06-10;No;Heavy;20.5;Student;Bee stings;Type 2 Diabetes
+PT094;77;Other;Actinic Keratosis;Fluorouracil;Normal;2023-06-29;No;Moderate;28.4;Artist;None;Asthma
+PT095;37;Female;Actinic Keratosis;Fluorouracil;Oily;2023-07-28;Yes;Heavy;20.9;Student;Mold;Seasonal Allergies
+PT096;57;Female;Perioral Dermatitis;Erythromycin;Sensitive;2023-10-26;No;Heavy;19.7;Unemployed;Pet dander;Hay Fever
+PT097;85;Non-binary;Pityriasis Rosea;Calamine Lotion;Normal;2023-05-29;No;Light;16.7;Teacher;Latex;Hay Fever
+PT098;69;Male;Seborrheic Dermatitis;Ketoconazole;Normal;2023-06-03;Yes;Moderate;19.9;Construction Worker;Penicillin;Hypothyroidism
+PT099;48;Non-binary;Psoriasis;Calcipotriene;Sensitive;2023-02-11;No;Heavy;27.6;Unemployed;Pollen;None
+PT100;43;Female;Contact Dermatitis;Clobetasol;Combination;2024-03-14;No;None;17.0;Student;None;Seasonal Allergies
