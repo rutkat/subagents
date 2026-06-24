@@ -9,4 +9,4 @@ A python multi-agent orchestrator with one agent to generator text and another a
 [Agent Tracing](https://github.com/rutkat/subagents/tree/main/agent-activity-dashboard)  
 A dasbhoard built using Gradio to show agent calls.
 
-
+[Haystack Agent framework](https://github.com/rutkat/subagents/tree/main/haystack)
